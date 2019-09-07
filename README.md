@@ -4,12 +4,12 @@
 <img src="images/cover_small.jpg" />
 
 ## Learn 
-<li>Explore the different features of Power BI to create interactive dashboards</li>
+<ul><li>Explore the different features of Power BI to create interactive dashboards</li>
 <li>Use the Query Editor to import and transform data</li>
 <li>Perform simple and complex DAX calculations to enhance analysis</li>
 <li>Discover business insights and tell a story with your data using Power BI</li>
 <li>Explore data and learn to manage datasets, dataflows, and data gateways</li>
-<li>Use workspaces to collaborate with others and publish your reports</li>
+<li>Use workspaces to collaborate with others and publish your reports</li></ul>
 
 ## About 
 <p>To succeed in today’s transforming business world, organizations need business intelligence capabilities to make smarter decisions faster than ever before. This Power BI book is an entry-level guide that will get you up and running with data modeling, visualization, and analytical techniques from scratch.</p>
@@ -19,6 +19,6 @@
 <p>By the end of this book, you’ll be ready to create simple yet effective BI reports and dashboards using the latest features of Power BI.</p>
 
 ## Features 
-<li>Create effective storytelling reports by implementing simple-to-intermediate Power BI features</li> 
+<ul><li>Create effective storytelling reports by implementing simple-to-intermediate Power BI features</li> 
 <li>Develop powerful analytical models to extract key insights for changing business needs</li>
-<li>Build, publish, and share impressive dashboards for your organization</li>
+<li>Build, publish, and share impressive dashboards for your organization</li></ul>
